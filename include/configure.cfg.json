@@ -1,0 +1,35 @@
+{
+  version="1.0",
+  language="en-us",
+  package="",
+  numberOfTestCase=,
+
+  group={
+          name="",
+          id=,
+          passCondition=,
+        },
+
+
+  cases={
+          {
+            name="",
+            group={
+                    name="",
+                    id=,
+                  },
+            id="",
+            fileChecking="",
+            type="class{object/member{data/function}}/function",
+            codeToCall="",
+            numberOfInput=,
+            inputs={},
+            numberOfOutput=,
+            expectedOutput={}
+          },
+
+        }
+
+
+
+}

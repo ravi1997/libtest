@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Object files
+.git
+Object/*.o
